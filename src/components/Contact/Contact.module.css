@@ -46,10 +46,11 @@
     letter-spacing: 1.5px;
 }
 
-@media screen and (max-width:830px) {
+@media screen and (max-width:840px) {
     .container{
         flex-direction: column;
         gap: 23px;
+        transform: scale(1);
     }
 
     .text{
