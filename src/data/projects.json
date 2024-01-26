@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather_react.png",
+    "description": "A dynamic, user-friendly application delivering real-time weather updates from a reliable online API. Developed to provide a seamless and intuitive experience for users checking global weather conditions.",
+    "skills": ["React", "REST API"],
+    "demo": "https://swarupdev-weatherapp.netlify.app/",
+    "source": "https://github.com/SkSahoo98/React-Weather_App"
+  },
+  {
+    "title": "Counter App",
+    "imageSrc": "projects/counter_react.png",
+    "description": "A beginner-friendly React app for simple value increment and decrement. Improve your understanding of state management and component interactions in a practical setting.",
+    "skills": ["React", "React Hook"],
+    "demo": "https://swarupdev-react-counter.netlify.app/",
+    "source": "https://github.com/SkSahoo98/React-Counter-App"
+  },
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/react_todo.png",
+    "description": "An entry-level React project, the Todo App simplifies task for beginners. It allows users to easily add, and delete tasks, offering a practical introduction to React development concepts.",
+    "skills": ["React","React Hook"],
+    "demo": "https://skdev-react-todo.netlify.app/",
+    "source": "https://github.com/SkSahoo98/React-ToDo-App"
+  }
+]
