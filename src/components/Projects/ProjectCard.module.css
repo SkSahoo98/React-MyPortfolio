@@ -3,12 +3,19 @@
 .container{
     display: flex;
     flex-direction: column;
-    border-radius: 10px;
-    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+    border-radius: 20px;
+    /* background: linear-gradient(180deg, #576cbc 0%, #132a53 100%); */
+    background: linear-gradient(135deg, rgba(100, 98, 240, 0.438), rgba(255, 255, 255, 0));
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
     max-width: 345px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    /* border: 1px solid rgba(100, 139, 247, 0.329); */
+    box-shadow: 0px 0px 20px rgba(90, 88, 216, 0.493);
+
 }
+
 
 .image{
     margin-bottom: 26px;
@@ -64,6 +71,6 @@
 .link:hover{
     transform:scale(0.9) ;
     transition: 0.5s ease-in-out;
-    background-color: rgb(136, 85, 231);
+    background-color: rgb(81, 188, 230);
     
 }
